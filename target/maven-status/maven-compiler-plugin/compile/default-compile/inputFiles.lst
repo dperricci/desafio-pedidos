@@ -1,0 +1,9 @@
+/home/dperricci/Downloads/desafio-pedidos/src/main/java/br/com/bluesoft/desafio/repository/ProdutoRepository.java
+/home/dperricci/Downloads/desafio-pedidos/src/main/java/br/com/bluesoft/desafio/model/Produto.java
+/home/dperricci/Downloads/desafio-pedidos/src/main/java/br/com/bluesoft/desafio/model/Preco.java
+/home/dperricci/Downloads/desafio-pedidos/src/main/java/br/com/bluesoft/desafio/repository/FornecedorRepository.java
+/home/dperricci/Downloads/desafio-pedidos/src/main/java/br/com/bluesoft/desafio/view/ErroView.java
+/home/dperricci/Downloads/desafio-pedidos/src/main/java/br/com/bluesoft/desafio/api/ApiExceptionHandler.java
+/home/dperricci/Downloads/desafio-pedidos/src/main/java/br/com/bluesoft/desafio/DesafioApplication.java
+/home/dperricci/Downloads/desafio-pedidos/src/main/java/br/com/bluesoft/desafio/api/ProdutoController.java
+/home/dperricci/Downloads/desafio-pedidos/src/main/java/br/com/bluesoft/desafio/model/Fornecedor.java

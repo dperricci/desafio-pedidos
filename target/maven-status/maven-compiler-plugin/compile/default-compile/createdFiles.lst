@@ -1,0 +1,9 @@
+br/com/bluesoft/desafio/model/Fornecedor.class
+br/com/bluesoft/desafio/model/Preco.class
+br/com/bluesoft/desafio/view/ErroView.class
+br/com/bluesoft/desafio/model/Produto.class
+br/com/bluesoft/desafio/repository/FornecedorRepository.class
+br/com/bluesoft/desafio/repository/ProdutoRepository.class
+br/com/bluesoft/desafio/DesafioApplication.class
+br/com/bluesoft/desafio/api/ApiExceptionHandler.class
+br/com/bluesoft/desafio/api/ProdutoController.class
